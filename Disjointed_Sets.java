@@ -1,3 +1,5 @@
+java.util
+
 public class DisjointSets {
 
     private int[] par;
